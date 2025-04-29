@@ -1,6 +1,6 @@
 ![logo](https://github.com/amanambekar/amanambekar/blob/main/75c2f842863ae2df6b3ac2d0a4d6302.gif)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20there,%20I'm%20Sujal!;Welcome%20to%20my%20GitHub%20profile;&center=true&width=500&height=50&color=FFA500">
+ <h1> <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20there,%20I'm%20Aman!;Welcome%20to%20my%20GitHub%20profile;&center=true&width=500&height=50&color=FFA500"></h1>
 </p>
 <h3 align="center" style= left-padding:>👩‍💻Tech Enthusiast | Exploring Full Stack<br> Development & Problem-Solving</h3>
 &nbsp&nbsp&nbsp&nbsp;<img align="center" alt="coding" width="600" height="300" src=https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966>
